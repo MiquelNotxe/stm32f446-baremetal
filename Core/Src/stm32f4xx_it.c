@@ -180,7 +180,7 @@ void PendSV_Handler(void)
 /**
   * @brief This function handles System tick timer.
   */
-volatile uint32_t systick_ms = 0;
+extern volatile uint32_t systick_ms;
 
 void SysTick_Handler(void)
 {
