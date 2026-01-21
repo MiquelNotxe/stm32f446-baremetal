@@ -2,6 +2,7 @@
 **/Debug/
 **/Release/
 **/build/ 
+**/plantilla bare-metal STM32F4 Debug.launch
 **/blink Debug.launch
 
 # Eclipse / CubeIDE
