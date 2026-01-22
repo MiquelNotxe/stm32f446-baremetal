@@ -1,0 +1,23 @@
+# Build outputs
+**/Debug/
+**/Release/
+**/build/ 
+**/toggle led Debug.launch
+
+# Eclipse / CubeIDE
+**/.settings/
+**/.project
+**/.cproject
+**/.metadata/
+**/.mxproject
+
+# Object files
+**/.o 
+**/.a
+**/.elf
+**/.map
+**/.lst
+**/.d 
+
+# Backup files
+**/~
